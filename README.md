@@ -1,6 +1,12 @@
 My name is Somashekar R. 
+
+
 I have recently B.E graduation in Computer Science Engineering from VKIT,Bangalore with a CGPA of 9.17.
+
+
 I have completed my internship at JSpiders.
+
+
 I have hands-on experience in Core Java, Advanced Java (JDBC, Hibernate, Spring Boot – basics), SQL, and AWS.
 
 <!--
